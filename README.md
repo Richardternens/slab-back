@@ -2,3 +2,6 @@
 
 
 craft slabs back to blocks
+
+modrinth:
+https://modrinth.com/datapack/slab-back

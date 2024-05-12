@@ -1,7 +1,0 @@
-{
-    "pack": {
-        "pack_format": 26,
-        "supported_formats": {"min_inclusive": 26, "max_inclusive": 32},
-        "description": "craft slabs back to blocks"
-    }
-}

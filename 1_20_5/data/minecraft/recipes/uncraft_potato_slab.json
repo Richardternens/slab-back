@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "__"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:potato_slab"
+        }
+    },
+    "result": {
+        "id": "minecraft:potato_planks",
+        "count": 1
+    },
+    "group": "uncraft slab"
+}

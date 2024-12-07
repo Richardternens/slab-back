@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "__"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:expired_baked_potato_brick_slab"
+        }
+    },
+    "result": {
+        "id": "minecraft:expired_baked_potato_bricks",
+        "count": 1
+    },
+    "group": "uncraft slab"
+}
